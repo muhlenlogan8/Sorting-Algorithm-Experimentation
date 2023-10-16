@@ -1,0 +1,47 @@
+[
+{
+  "directory": "/mnt/c/Users/muhle/DataStructures_git/Lab04/build",
+  "command": "/usr/bin/g++ -Dapplibrary_EXPORTS  -g -fPIC -std=c++17 -o CMakeFiles/applibrary.dir/PrintTable.cpp.o -c /mnt/c/Users/muhle/DataStructures_git/Lab04/PrintTable.cpp",
+  "file": "/mnt/c/Users/muhle/DataStructures_git/Lab04/PrintTable.cpp"
+},
+{
+  "directory": "/mnt/c/Users/muhle/DataStructures_git/Lab04/build",
+  "command": "/usr/bin/g++ -Dapplibrary_EXPORTS  -g -fPIC -std=c++17 -o CMakeFiles/applibrary.dir/RunTimes.cpp.o -c /mnt/c/Users/muhle/DataStructures_git/Lab04/RunTimes.cpp",
+  "file": "/mnt/c/Users/muhle/DataStructures_git/Lab04/RunTimes.cpp"
+},
+{
+  "directory": "/mnt/c/Users/muhle/DataStructures_git/Lab04/build",
+  "command": "/usr/bin/g++ -Dapplibrary_EXPORTS  -g -fPIC -std=c++17 -o CMakeFiles/applibrary.dir/SortingAlgorithms/BubbleSort.cpp.o -c /mnt/c/Users/muhle/DataStructures_git/Lab04/SortingAlgorithms/BubbleSort.cpp",
+  "file": "/mnt/c/Users/muhle/DataStructures_git/Lab04/SortingAlgorithms/BubbleSort.cpp"
+},
+{
+  "directory": "/mnt/c/Users/muhle/DataStructures_git/Lab04/build",
+  "command": "/usr/bin/g++ -Dapplibrary_EXPORTS  -g -fPIC -std=c++17 -o CMakeFiles/applibrary.dir/SortingAlgorithms/InsertionSort.cpp.o -c /mnt/c/Users/muhle/DataStructures_git/Lab04/SortingAlgorithms/InsertionSort.cpp",
+  "file": "/mnt/c/Users/muhle/DataStructures_git/Lab04/SortingAlgorithms/InsertionSort.cpp"
+},
+{
+  "directory": "/mnt/c/Users/muhle/DataStructures_git/Lab04/build",
+  "command": "/usr/bin/g++ -Dapplibrary_EXPORTS  -g -fPIC -std=c++17 -o CMakeFiles/applibrary.dir/SortingAlgorithms/MergeSort.cpp.o -c /mnt/c/Users/muhle/DataStructures_git/Lab04/SortingAlgorithms/MergeSort.cpp",
+  "file": "/mnt/c/Users/muhle/DataStructures_git/Lab04/SortingAlgorithms/MergeSort.cpp"
+},
+{
+  "directory": "/mnt/c/Users/muhle/DataStructures_git/Lab04/build",
+  "command": "/usr/bin/g++ -Dapplibrary_EXPORTS  -g -fPIC -std=c++17 -o CMakeFiles/applibrary.dir/SortingAlgorithms/QuickSort.cpp.o -c /mnt/c/Users/muhle/DataStructures_git/Lab04/SortingAlgorithms/QuickSort.cpp",
+  "file": "/mnt/c/Users/muhle/DataStructures_git/Lab04/SortingAlgorithms/QuickSort.cpp"
+},
+{
+  "directory": "/mnt/c/Users/muhle/DataStructures_git/Lab04/build",
+  "command": "/usr/bin/g++ -Dapplibrary_EXPORTS  -g -fPIC -std=c++17 -o CMakeFiles/applibrary.dir/SortingAlgorithms/RadixSort.cpp.o -c /mnt/c/Users/muhle/DataStructures_git/Lab04/SortingAlgorithms/RadixSort.cpp",
+  "file": "/mnt/c/Users/muhle/DataStructures_git/Lab04/SortingAlgorithms/RadixSort.cpp"
+},
+{
+  "directory": "/mnt/c/Users/muhle/DataStructures_git/Lab04/build",
+  "command": "/usr/bin/g++   -g -std=c++17 -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/runTests.dir/tests.cpp.o -c /mnt/c/Users/muhle/DataStructures_git/Lab04/tests.cpp",
+  "file": "/mnt/c/Users/muhle/DataStructures_git/Lab04/tests.cpp"
+},
+{
+  "directory": "/mnt/c/Users/muhle/DataStructures_git/Lab04/build",
+  "command": "/usr/bin/g++   -g -std=c++17 -o CMakeFiles/runMain.dir/main.cpp.o -c /mnt/c/Users/muhle/DataStructures_git/Lab04/main.cpp",
+  "file": "/mnt/c/Users/muhle/DataStructures_git/Lab04/main.cpp"
+}
+]
